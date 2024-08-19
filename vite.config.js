@@ -12,5 +12,5 @@ export default defineConfig({
       resolvers: [BootstrapVueNextResolver()],
     }),
   ],
-  assetsInclude: ['**/*.JPG'],
+  assetsInclude: ['**/*.JPG', '**/*.JPEG'],
 });
